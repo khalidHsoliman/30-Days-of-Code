@@ -1,0 +1,7 @@
+E:\Life\30 Days of Code\Day 4 Class vs. Instance\Day 4 Class vs. Instance\bin\Debug\Day_4_Class_vs.Instance.exe.config
+E:\Life\30 Days of Code\Day 4 Class vs. Instance\Day 4 Class vs. Instance\bin\Debug\Day_4_Class_vs.Instance.exe
+E:\Life\30 Days of Code\Day 4 Class vs. Instance\Day 4 Class vs. Instance\bin\Debug\Day_4_Class_vs.Instance.pdb
+E:\Life\30 Days of Code\Day 4 Class vs. Instance\Day 4 Class vs. Instance\obj\Debug\Day 4 Class vs. Instance.csprojAssemblyReference.cache
+E:\Life\30 Days of Code\Day 4 Class vs. Instance\Day 4 Class vs. Instance\obj\Debug\Day 4 Class vs. Instance.csproj.CoreCompileInputs.cache
+E:\Life\30 Days of Code\Day 4 Class vs. Instance\Day 4 Class vs. Instance\obj\Debug\Day_4_Class_vs.Instance.exe
+E:\Life\30 Days of Code\Day 4 Class vs. Instance\Day 4 Class vs. Instance\obj\Debug\Day_4_Class_vs.Instance.pdb

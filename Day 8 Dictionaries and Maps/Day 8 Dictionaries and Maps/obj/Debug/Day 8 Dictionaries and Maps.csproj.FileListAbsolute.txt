@@ -1,0 +1,7 @@
+E:\Life\30 Days of Code\Day 8 Dictionaries and Maps\Day 8 Dictionaries and Maps\bin\Debug\Day 8 Dictionaries and Maps.exe.config
+E:\Life\30 Days of Code\Day 8 Dictionaries and Maps\Day 8 Dictionaries and Maps\bin\Debug\Day 8 Dictionaries and Maps.exe
+E:\Life\30 Days of Code\Day 8 Dictionaries and Maps\Day 8 Dictionaries and Maps\bin\Debug\Day 8 Dictionaries and Maps.pdb
+E:\Life\30 Days of Code\Day 8 Dictionaries and Maps\Day 8 Dictionaries and Maps\obj\Debug\Day 8 Dictionaries and Maps.csprojAssemblyReference.cache
+E:\Life\30 Days of Code\Day 8 Dictionaries and Maps\Day 8 Dictionaries and Maps\obj\Debug\Day 8 Dictionaries and Maps.csproj.CoreCompileInputs.cache
+E:\Life\30 Days of Code\Day 8 Dictionaries and Maps\Day 8 Dictionaries and Maps\obj\Debug\Day 8 Dictionaries and Maps.exe
+E:\Life\30 Days of Code\Day 8 Dictionaries and Maps\Day 8 Dictionaries and Maps\obj\Debug\Day 8 Dictionaries and Maps.pdb

@@ -1,0 +1,6 @@
+E:\Life\30 Days of Code\Day 1 Data Types\Day 1 Data Types\bin\Debug\Day 1 Data Types.exe.config
+E:\Life\30 Days of Code\Day 1 Data Types\Day 1 Data Types\bin\Debug\Day 1 Data Types.exe
+E:\Life\30 Days of Code\Day 1 Data Types\Day 1 Data Types\bin\Debug\Day 1 Data Types.pdb
+E:\Life\30 Days of Code\Day 1 Data Types\Day 1 Data Types\obj\Debug\Day 1 Data Types.csproj.CoreCompileInputs.cache
+E:\Life\30 Days of Code\Day 1 Data Types\Day 1 Data Types\obj\Debug\Day 1 Data Types.exe
+E:\Life\30 Days of Code\Day 1 Data Types\Day 1 Data Types\obj\Debug\Day 1 Data Types.pdb

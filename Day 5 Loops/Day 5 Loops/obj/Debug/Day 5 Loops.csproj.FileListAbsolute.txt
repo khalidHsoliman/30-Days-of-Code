@@ -1,0 +1,7 @@
+E:\Life\30 Days of Code\Day 5 Loops\Day 5 Loops\bin\Debug\Day 5 Loops.exe.config
+E:\Life\30 Days of Code\Day 5 Loops\Day 5 Loops\bin\Debug\Day 5 Loops.exe
+E:\Life\30 Days of Code\Day 5 Loops\Day 5 Loops\bin\Debug\Day 5 Loops.pdb
+E:\Life\30 Days of Code\Day 5 Loops\Day 5 Loops\obj\Debug\Day 5 Loops.csprojAssemblyReference.cache
+E:\Life\30 Days of Code\Day 5 Loops\Day 5 Loops\obj\Debug\Day 5 Loops.csproj.CoreCompileInputs.cache
+E:\Life\30 Days of Code\Day 5 Loops\Day 5 Loops\obj\Debug\Day 5 Loops.exe
+E:\Life\30 Days of Code\Day 5 Loops\Day 5 Loops\obj\Debug\Day 5 Loops.pdb

@@ -1,0 +1,6 @@
+E:\Life\30 Days of Code\Day 2 Operators\Day 2 Operators\bin\Debug\Day 2 Operators.exe.config
+E:\Life\30 Days of Code\Day 2 Operators\Day 2 Operators\bin\Debug\Day 2 Operators.exe
+E:\Life\30 Days of Code\Day 2 Operators\Day 2 Operators\bin\Debug\Day 2 Operators.pdb
+E:\Life\30 Days of Code\Day 2 Operators\Day 2 Operators\obj\Debug\Day 2 Operators.csproj.CoreCompileInputs.cache
+E:\Life\30 Days of Code\Day 2 Operators\Day 2 Operators\obj\Debug\Day 2 Operators.exe
+E:\Life\30 Days of Code\Day 2 Operators\Day 2 Operators\obj\Debug\Day 2 Operators.pdb

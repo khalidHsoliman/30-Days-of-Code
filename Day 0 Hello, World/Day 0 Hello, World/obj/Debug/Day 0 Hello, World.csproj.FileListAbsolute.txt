@@ -1,0 +1,7 @@
+E:\Life\30 Days of Code\Day 0 Hello, World\Day 0 Hello, World\bin\Debug\Day 0 Hello, World.exe.config
+E:\Life\30 Days of Code\Day 0 Hello, World\Day 0 Hello, World\bin\Debug\Day 0 Hello, World.exe
+E:\Life\30 Days of Code\Day 0 Hello, World\Day 0 Hello, World\bin\Debug\Day 0 Hello, World.pdb
+E:\Life\30 Days of Code\Day 0 Hello, World\Day 0 Hello, World\obj\Debug\Day 0 Hello, World.csprojAssemblyReference.cache
+E:\Life\30 Days of Code\Day 0 Hello, World\Day 0 Hello, World\obj\Debug\Day 0 Hello, World.csproj.CoreCompileInputs.cache
+E:\Life\30 Days of Code\Day 0 Hello, World\Day 0 Hello, World\obj\Debug\Day 0 Hello, World.exe
+E:\Life\30 Days of Code\Day 0 Hello, World\Day 0 Hello, World\obj\Debug\Day 0 Hello, World.pdb

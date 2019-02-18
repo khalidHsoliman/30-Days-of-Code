@@ -1,0 +1,7 @@
+E:\Life\30 Days of Code\Day 6 Let's Review\Day 6 Let's Review\bin\Debug\Day 6 Let's Review.exe.config
+E:\Life\30 Days of Code\Day 6 Let's Review\Day 6 Let's Review\bin\Debug\Day 6 Let's Review.exe
+E:\Life\30 Days of Code\Day 6 Let's Review\Day 6 Let's Review\bin\Debug\Day 6 Let's Review.pdb
+E:\Life\30 Days of Code\Day 6 Let's Review\Day 6 Let's Review\obj\Debug\Day 6 Let's Review.csproj.CoreCompileInputs.cache
+E:\Life\30 Days of Code\Day 6 Let's Review\Day 6 Let's Review\obj\Debug\Day 6 Let's Review.exe
+E:\Life\30 Days of Code\Day 6 Let's Review\Day 6 Let's Review\obj\Debug\Day 6 Let's Review.pdb
+E:\Life\30 Days of Code\Day 6 Let's Review\Day 6 Let's Review\obj\Debug\Day 6 Let's Review.csprojAssemblyReference.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 7 Arrays", "Day 7 Arrays\Day 7 Arrays.csproj", "{BF2DB406-831E-42D8-AFED-60CCB63757C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF2DB406-831E-42D8-AFED-60CCB63757C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF2DB406-831E-42D8-AFED-60CCB63757C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF2DB406-831E-42D8-AFED-60CCB63757C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF2DB406-831E-42D8-AFED-60CCB63757C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0931B730-F02D-4C2C-AEF3-5FD45D49917D}
+	EndGlobalSection
+EndGlobal

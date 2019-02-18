@@ -1,0 +1,7 @@
+E:\Life\30 Days of Code\Day 10 Binary Numbers\Day 10 Binary Numbers\obj\Debug\Day 10 Binary Numbers.csproj.CoreCompileInputs.cache
+E:\Life\30 Days of Code\Day 10 Binary Numbers\Day 10 Binary Numbers\bin\Debug\Day 10 Binary Numbers.exe.config
+E:\Life\30 Days of Code\Day 10 Binary Numbers\Day 10 Binary Numbers\bin\Debug\Day 10 Binary Numbers.exe
+E:\Life\30 Days of Code\Day 10 Binary Numbers\Day 10 Binary Numbers\bin\Debug\Day 10 Binary Numbers.pdb
+E:\Life\30 Days of Code\Day 10 Binary Numbers\Day 10 Binary Numbers\obj\Debug\Day 10 Binary Numbers.exe
+E:\Life\30 Days of Code\Day 10 Binary Numbers\Day 10 Binary Numbers\obj\Debug\Day 10 Binary Numbers.pdb
+E:\Life\30 Days of Code\Day 10 Binary Numbers\Day 10 Binary Numbers\obj\Debug\Day 10 Binary Numbers.csprojAssemblyReference.cache

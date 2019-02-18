@@ -1,0 +1,6 @@
+E:\Life\30 Days of Code\Day 9 Recursion 3\Day 9 Recursion 3\bin\Debug\Day 9 Recursion 3.exe.config
+E:\Life\30 Days of Code\Day 9 Recursion 3\Day 9 Recursion 3\bin\Debug\Day 9 Recursion 3.exe
+E:\Life\30 Days of Code\Day 9 Recursion 3\Day 9 Recursion 3\bin\Debug\Day 9 Recursion 3.pdb
+E:\Life\30 Days of Code\Day 9 Recursion 3\Day 9 Recursion 3\obj\Debug\Day 9 Recursion 3.csproj.CoreCompileInputs.cache
+E:\Life\30 Days of Code\Day 9 Recursion 3\Day 9 Recursion 3\obj\Debug\Day 9 Recursion 3.exe
+E:\Life\30 Days of Code\Day 9 Recursion 3\Day 9 Recursion 3\obj\Debug\Day 9 Recursion 3.pdb
