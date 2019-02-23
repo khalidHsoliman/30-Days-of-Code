@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 14 Scope", "Day 14 Scope\Day 14 Scope.csproj", "{7656894C-94BE-434E-BD9E-534EAF5223DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7656894C-94BE-434E-BD9E-534EAF5223DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7656894C-94BE-434E-BD9E-534EAF5223DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7656894C-94BE-434E-BD9E-534EAF5223DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7656894C-94BE-434E-BD9E-534EAF5223DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC4B412F-CBE6-448B-A13B-A77D8B2E0A87}
+	EndGlobalSection
+EndGlobal
