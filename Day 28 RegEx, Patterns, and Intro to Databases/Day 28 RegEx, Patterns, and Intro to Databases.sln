@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 28 RegEx, Patterns, and Intro to Databases", "Day 28 RegEx, Patterns, and Intro to Databases\Day 28 RegEx, Patterns, and Intro to Databases.csproj", "{F8E5CD4F-143B-480E-A7C7-11FECC62B10C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8E5CD4F-143B-480E-A7C7-11FECC62B10C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8E5CD4F-143B-480E-A7C7-11FECC62B10C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8E5CD4F-143B-480E-A7C7-11FECC62B10C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8E5CD4F-143B-480E-A7C7-11FECC62B10C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5A30460-B7E4-4D20-8059-EC921E12A197}
+	EndGlobalSection
+EndGlobal
